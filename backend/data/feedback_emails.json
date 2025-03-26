@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "email_id": 151,
+    "sender": "manager1@example.com",
+    "subject": "Project Update",
+    "content": "Please find the latest project update attached.",
+    "original_classification": {
+      "is_spam": true,
+      "spam_score": 15,
+      "confidence": 0.7,
+      "method": "ai-model"
+    },
+    "user_feedback": {
+      "is_spam": false,
+      "user_id": 201,
+      "feedback_text": "This is a routine project update and not spam.",
+      "submitted_at": "2025-03-25T11:00:00Z"
+    }
+  },
+  {
+    "id": 2,
+    "email_id": 152,
+    "sender": "offer7@example.com",
+    "subject": "Special Discount Offer",
+    "content": "Huge discount available, buy now and save big!",
+    "original_classification": {
+      "is_spam": false,
+      "spam_score": 20,
+      "confidence": 0.65,
+      "method": "ai-model"
+    },
+    "user_feedback": {
+      "is_spam": true,
+      "user_id": 202,
+      "feedback_text": "Promotional content; this is clearly spam.",
+      "submitted_at": "2025-03-25T11:05:00Z"
+    }
+  },
+  {
+    "id": 3,
+    "email_id": 153,
+    "sender": "hr2@example.com",
+    "subject": "Interview Schedule",
+    "content": "Your interview is scheduled for next week. Please prepare accordingly.",
+    "original_classification": {
+      "is_spam": true,
+      "spam_score": 10,
+      "confidence": 0.7,
+      "method": "rule-based"
+    },
+    "user_feedback": {
+      "is_spam": false,
+      "user_id": 203,
+      "feedback_text": "This is an HR communication and not spam.",
+      "submitted_at": "2025-03-25T11:10:00Z"
+    }
+  },
+  {
+    "id": 4,
+    "email_id": 154,
+    "sender": "lottery2@example.com",
+    "subject": "Lottery Win Notification",
+    "content": "You've been selected to win the lottery! Claim your prize!",
+    "original_classification": {
+      "is_spam": false,
+      "spam_score": 25,
+      "confidence": 0.75,
+      "method": "ai-model"
+    },
+    "user_feedback": {
+      "is_spam": true,
+      "user_id": 204,
+      "feedback_text": "Lottery scam email; this should be marked as spam.",
+      "submitted_at": "2025-03-25T11:15:00Z"
+    }
+  },
+  {
+    "id": 5,
+    "email_id": 155,
+    "sender": "teamlead2@example.com",
+    "subject": "Meeting Reminder",
+    "content": "Don't forget our meeting tomorrow at 10 AM.",
+    "original_classification": {
+      "is_spam": true,
+      "spam_score": 8,
+      "confidence": 0.6,
+      "method": "rule-based"
+    },
+    "user_feedback": {
+      "is_spam": false,
+      "user_id": 205,
+      "feedback_text": "This is a meeting reminder from a trusted source.",
+      "submitted_at": "2025-03-25T11:20:00Z"
+    }
+  },
+  {
+    "id": 6,
+    "email_id": 156,
+    "sender": "promo2@example.com",
+    "subject": "Free Gift Inside",
+    "content": "Claim your free gift now by clicking here!",
+    "original_classification": {
+      "is_spam": false,
+      "spam_score": 30,
+      "confidence": 0.8,
+      "method": "ai-model"
+    },
+    "user_feedback": {
+      "is_spam": true,
+      "user_id": 206,
+      "feedback_text": "This promotional email has typical spam characteristics.",
+      "submitted_at": "2025-03-25T11:25:00Z"
+    }
+  },
+  {
+    "id": 7,
+    "email_id": 157,
+    "sender": "colleague5@example.com",
+    "subject": "Code Review Request",
+    "content": "Please review my code before the deadline.",
+    "original_classification": {
+      "is_spam": true,
+      "spam_score": 12,
+      "confidence": 0.7,
+      "method": "rule-based"
+    },
+    "user_feedback": {
+      "is_spam": false,
+      "user_id": 207,
+      "feedback_text": "This is a code review request from a colleague and not spam.",
+      "submitted_at": "2025-03-25T11:30:00Z"
+    }
+  },
+  {
+    "id": 8,
+    "email_id": 158,
+    "sender": "winnow@example.com",
+    "subject": "Win Cash Prizes",
+    "content": "Participate in our contest to win cash prizes instantly!",
+    "original_classification": {
+      "is_spam": false,
+      "spam_score": 35,
+      "confidence": 0.8,
+      "method": "ai-model"
+    },
+    "user_feedback": {
+      "is_spam": true,
+      "user_id": 208,
+      "feedback_text": "Contest email with cash prize details; this is spam.",
+      "submitted_at": "2025-03-25T11:35:00Z"
+    }
+  },
+  {
+    "id": 9,
+    "email_id": 159,
+    "sender": "manager7@example.com",
+    "subject": "Weekly Summary",
+    "content": "Attached is the weekly summary report.",
+    "original_classification": {
+      "is_spam": true,
+      "spam_score": 9,
+      "confidence": 0.65,
+      "method": "rule-based"
+    },
+    "user_feedback": {
+      "is_spam": false,
+      "user_id": 209,
+      "feedback_text": "This is a legitimate weekly summary from a manager.",
+      "submitted_at": "2025-03-25T11:40:00Z"
+    }
+  },
+  {
+    "id": 10,
+    "email_id": 160,
+    "sender": "deals2@example.com",
+    "subject": "Limited Time Offer",
+    "content": "Get an exclusive deal now, limited time only!",
+    "original_classification": {
+      "is_spam": false,
+      "spam_score": 40,
+      "confidence": 0.75,
+      "method": "ai-model"
+    },
+    "user_feedback": {
+      "is_spam": true,
+      "user_id": 210,
+      "feedback_text": "The limited time offer is a typical spam message.",
+      "submitted_at": "2025-03-25T11:45:00Z"
+    }
+  },
+  {
+    "id": 11,
+    "email_id": 161,
+    "sender": "boss2@example.com",
+    "subject": "Performance Feedback",
+    "content": "Your performance review is scheduled for tomorrow.",
+    "original_classification": {
+      "is_spam": true,
+      "spam_score": 11,
+      "confidence": 0.7,
+      "method": "rule-based"
+    },
+    "user_feedback": {
+      "is_spam": false,
+      "user_id": 211,
+      "feedback_text": "Performance feedback is an internal communication, not spam.",
+      "submitted_at": "2025-03-25T11:50:00Z"
+    }
+  },
+  {
+    "id": 12,
+    "email_id": 162,
+    "sender": "promo3@example.com",
+    "subject": "Amazing Offer",
+    "content": "Don't miss this amazing offer, shop today!",
+    "original_classification": {
+      "is_spam": false,
+      "spam_score": 45,
+      "confidence": 0.8,
+      "method": "ai-model"
+    },
+    "user_feedback": {
+      "is_spam": true,
+      "user_id": 212,
+      "feedback_text": "This promotional email is spam due to its offer language.",
+      "submitted_at": "2025-03-25T11:55:00Z"
+    }
+  },
+  {
+    "id": 13,
+    "email_id": 163,
+    "sender": "team2@example.com",
+    "subject": "Project Meeting",
+    "content": "Let's have a project meeting on Wednesday.",
+    "original_classification": {
+      "is_spam": true,
+      "spam_score": 7,
+      "confidence": 0.65,
+      "method": "rule-based"
+    },
+    "user_feedback": {
+      "is_spam": false,
+      "user_id": 213,
+      "feedback_text": "A project meeting invitation is routine and not spam.",
+      "submitted_at": "2025-03-25T12:00:00Z"
+    }
+  },
+  {
+    "id": 14,
+    "email_id": 164,
+    "sender": "winprize@example.com",
+    "subject": "Claim Your Prize",
+    "content": "Click to claim your prize immediately!",
+    "original_classification": {
+      "is_spam": false,
+      "spam_score": 50,
+      "confidence": 0.85,
+      "method": "ai-model"
+    },
+    "user_feedback": {
+      "is_spam": true,
+      "user_id": 214,
+      "feedback_text": "This prize claim email should be marked as spam.",
+      "submitted_at": "2025-03-25T12:05:00Z"
+    }
+  },
+  {
+    "id": 15,
+    "email_id": 165,
+    "sender": "it@example.com",
+    "subject": "System Maintenance",
+    "content": "Scheduled maintenance tonight at 11 PM.",
+    "original_classification": {
+      "is_spam": true,
+      "spam_score": 6,
+      "confidence": 0.65,
+      "method": "rule-based"
+    },
+    "user_feedback": {
+      "is_spam": false,
+      "user_id": 215,
+      "feedback_text": "System maintenance notices are not spam.",
+      "submitted_at": "2025-03-25T12:10:00Z"
+    }
+  },
+  {
+    "id": 16,
+    "email_id": 166,
+    "sender": "offer3@example.com",
+    "subject": "Earn Money Fast",
+    "content": "Start earning money quickly with this simple trick.",
+    "original_classification": {
+      "is_spam": false,
+      "spam_score": 55,
+      "confidence": 0.8,
+      "method": "ai-model"
+    },
+    "user_feedback": {
+      "is_spam": true,
+      "user_id": 216,
+      "feedback_text": "This email promises quick earnings and is spam.",
+      "submitted_at": "2025-03-25T12:15:00Z"
+    }
+  },
+  {
+    "id": 17,
+    "email_id": 167,
+    "sender": "colleague6@example.com",
+    "subject": "Meeting Agenda",
+    "content": "Attached is the agenda for our upcoming meeting.",
+    "original_classification": {
+      "is_spam": true,
+      "spam_score": 10,
+      "confidence": 0.7,
+      "method": "rule-based"
+    },
+    "user_feedback": {
+      "is_spam": false,
+      "user_id": 217,
+      "feedback_text": "This meeting agenda is a normal work email.",
+      "submitted_at": "2025-03-25T12:20:00Z"
+    }
+  },
+  {
+    "id": 18,
+    "email_id": 168,
+    "sender": "discount3@example.com",
+    "subject": "Super Sale",
+    "content": "Enjoy our super sale with up to 80% off!",
+    "original_classification": {
+      "is_spam": false,
+      "spam_score": 60,
+      "confidence": 0.8,
+      "method": "ai-model"
+    },
+    "user_feedback": {
+      "is_spam": true,
+      "user_id": 218,
+      "feedback_text": "This sale promotion is a spam email.",
+      "submitted_at": "2025-03-25T12:25:00Z"
+    }
+  },
+  {
+    "id": 19,
+    "email_id": 169,
+    "sender": "friend4@example.com",
+    "subject": "Lunch Plan",
+    "content": "Let's go for lunch tomorrow.",
+    "original_classification": {
+      "is_spam": true,
+      "spam_score": 8,
+      "confidence": 0.65,
+      "method": "rule-based"
+    },
+    "user_feedback": {
+      "is_spam": false,
+      "user_id": 219,
+      "feedback_text": "Lunch plans from a friend are not spam.",
+      "submitted_at": "2025-03-25T12:30:00Z"
+    }
+  },
+  {
+    "id": 20,
+    "email_id": 170,
+    "sender": "promo4@example.com",
+    "subject": "Exclusive Deal",
+    "content": "Unlock exclusive deals with our membership today!",
+    "original_classification": {
+      "is_spam": false,
+      "spam_score": 65,
+      "confidence": 0.85,
+      "method": "ai-model"
+    },
+    "user_feedback": {
+      "is_spam": true,
+      "user_id": 220,
+      "feedback_text": "This exclusive deal email is clearly spam.",
+      "submitted_at": "2025-03-25T12:35:00Z"
+    }
+  }
+]
