@@ -1,0 +1,1192 @@
+[
+  {
+    "id": 1,
+    "sender": "marketing@example.com",
+    "subject": "URGENT: You've won a prize!",
+    "content": "Congratulations! You have won $1,000,000. Click here to claim your prize now!",
+    "is_spam": true
+  },
+  {
+    "id": 2,
+    "sender": "friend@example.com",
+    "subject": "Meeting tomorrow",
+    "content": "Hi, just wanted to confirm our meeting tomorrow at 2pm. Let me know if that still works for you.",
+    "is_spam": false
+  },
+  {
+    "id": 3,
+    "sender": "newsletter@example.com",
+    "subject": "Limited time offer inside!",
+    "content": "Don't miss out on these amazing deals! 50% off everything! Limited time only! Act now before it's too late!",
+    "is_spam": true
+  },
+  {
+    "id": 4,
+    "sender": "lottery@example.com",
+    "subject": "Lottery Winner Notification",
+    "content": "You have been selected as a winner in our lottery! Claim your cash prize now.",
+    "is_spam": true
+  },
+  {
+    "id": 5,
+    "sender": "colleague@example.com",
+    "subject": "Project Update",
+    "content": "The project deadline has been extended. Let's discuss the next steps in our meeting.",
+    "is_spam": false
+  },
+  {
+    "id": 6,
+    "sender": "deals@example.com",
+    "subject": "Exclusive Discount Just For You!",
+    "content": "Enjoy a 70% discount on our premium products. Offer expires soon!",
+    "is_spam": true
+  },
+  {
+    "id": 7,
+    "sender": "boss@example.com",
+    "subject": "Quarterly Review Meeting",
+    "content": "Please prepare your reports for the quarterly review meeting next week.",
+    "is_spam": false
+  },
+  {
+    "id": 8,
+    "sender": "winbig@example.com",
+    "subject": "Win Big Prizes Now",
+    "content": "Enter our contest and win big prizes. Limited slots available!",
+    "is_spam": true
+  },
+  {
+    "id": 9,
+    "sender": "hr@example.com",
+    "subject": "Job Interview Confirmation",
+    "content": "This email confirms your interview scheduled for Friday at 10 AM.",
+    "is_spam": false
+  },
+  {
+    "id": 10,
+    "sender": "offer@example.com",
+    "subject": "Get Rich Quick Scheme",
+    "content": "Earn thousands of dollars from the comfort of your home. Sign up now!",
+    "is_spam": true
+  },
+  {
+    "id": 11,
+    "sender": "pharma@example.com",
+    "subject": "Miracle Cure for All Ailments",
+    "content": "Discover the miracle cure that doctors don't want you to know about!",
+    "is_spam": true
+  },
+  {
+    "id": 12,
+    "sender": "friend2@example.com",
+    "subject": "Dinner Plans",
+    "content": "Are we still on for dinner tomorrow? Let me know.",
+    "is_spam": false
+  },
+  {
+    "id": 13,
+    "sender": "credit@example.com",
+    "subject": "Low Interest Loans Available",
+    "content": "Apply for a low interest loan and get approved within minutes!",
+    "is_spam": true
+  },
+  {
+    "id": 14,
+    "sender": "newsletter@news.com",
+    "subject": "Daily News Update",
+    "content": "Here is your daily digest of top news stories.",
+    "is_spam": false
+  },
+  {
+    "id": 15,
+    "sender": "investment@example.com",
+    "subject": "Double Your Investment",
+    "content": "Invest now and double your money in just 30 days!",
+    "is_spam": true
+  },
+  {
+    "id": 16,
+    "sender": "teamlead@example.com",
+    "subject": "Team Meeting Reminder",
+    "content": "Don't forget our team meeting scheduled for tomorrow morning.",
+    "is_spam": false
+  },
+  {
+    "id": 17,
+    "sender": "discounts@example.com",
+    "subject": "Flash Sale - 80% OFF",
+    "content": "Our flash sale is live! Enjoy up to 80% off on all items.",
+    "is_spam": true
+  },
+  {
+    "id": 18,
+    "sender": "support@example.com",
+    "subject": "Support Ticket Update",
+    "content": "Your support ticket has been resolved. Please let us know if you have further issues.",
+    "is_spam": false
+  },
+  {
+    "id": 19,
+    "sender": "lotto@example.com",
+    "subject": "Claim Your Lotto Win",
+    "content": "You are the lucky winner of our lotto draw. Click to claim your prize.",
+    "is_spam": true
+  },
+  {
+    "id": 20,
+    "sender": "service@example.com",
+    "subject": "Service Appointment Confirmation",
+    "content": "Your appointment has been confirmed for tomorrow at 3 PM.",
+    "is_spam": false
+  },
+  {
+    "id": 21,
+    "sender": "crypto@example.com",
+    "subject": "Invest in Cryptocurrency Now",
+    "content": "Don't miss the crypto boom! Invest now and secure your future.",
+    "is_spam": true
+  },
+  {
+    "id": 22,
+    "sender": "family@example.com",
+    "subject": "Family Reunion",
+    "content": "Looking forward to our family reunion next month!",
+    "is_spam": false
+  },
+  {
+    "id": 23,
+    "sender": "winmoney@example.com",
+    "subject": "Free Money Awaits",
+    "content": "Unlock free money by clicking this link. Limited time offer!",
+    "is_spam": true
+  },
+  {
+    "id": 24,
+    "sender": "updates@example.com",
+    "subject": "Account Activity Alert",
+    "content": "We noticed a new login to your account. If this wasn't you, please secure your account immediately.",
+    "is_spam": false
+  },
+  {
+    "id": 25,
+    "sender": "prize@example.com",
+    "subject": "Claim Your Reward",
+    "content": "Congratulations! Claim your exclusive reward by clicking here.",
+    "is_spam": true
+  },
+  {
+    "id": 26,
+    "sender": "colleague2@example.com",
+    "subject": "Report Submission",
+    "content": "Please submit your report by EOD. Let me know if you need any help.",
+    "is_spam": false
+  },
+  {
+    "id": 27,
+    "sender": "vacation@example.com",
+    "subject": "Cheap Vacations Await",
+    "content": "Book your dream vacation for less than $99. Limited time offer!",
+    "is_spam": true
+  },
+  {
+    "id": 28,
+    "sender": "meeting@example.com",
+    "subject": "Weekly Meeting Agenda",
+    "content": "Attached is the agenda for this week's meeting.",
+    "is_spam": false
+  },
+  {
+    "id": 29,
+    "sender": "lotterywin@example.com",
+    "subject": "Congratulations, Lottery Winner!",
+    "content": "You have been selected as a lottery winner. Claim your cash prize today!",
+    "is_spam": true
+  },
+  {
+    "id": 30,
+    "sender": "projectmanager@example.com",
+    "subject": "Project Deadline Extended",
+    "content": "The deadline for the project has been extended by one week.",
+    "is_spam": false
+  },
+  {
+    "id": 31,
+    "sender": "deal@example.com",
+    "subject": "One Day Mega Sale",
+    "content": "Don't miss our one day mega sale. Everything must go!",
+    "is_spam": true
+  },
+  {
+    "id": 32,
+    "sender": "colleague3@example.com",
+    "subject": "Code Review Request",
+    "content": "Can you please review my code when you have a moment?",
+    "is_spam": false
+  },
+  {
+    "id": 33,
+    "sender": "promo@example.com",
+    "subject": "Hot Deals Just For You",
+    "content": "Exclusive offers on our latest products. Grab them before they're gone!",
+    "is_spam": true
+  },
+  {
+    "id": 34,
+    "sender": "support2@example.com",
+    "subject": "Ticket Resolution",
+    "content": "Your issue has been resolved. Thank you for your patience.",
+    "is_spam": false
+  },
+  {
+    "id": 35,
+    "sender": "offer2@example.com",
+    "subject": "Earn Extra Income Fast",
+    "content": "Start earning extra income from home with our easy scheme.",
+    "is_spam": true
+  },
+  {
+    "id": 36,
+    "sender": "friend3@example.com",
+    "subject": "Weekend Getaway",
+    "content": "How about a weekend getaway? Let me know if you're free.",
+    "is_spam": false
+  },
+  {
+    "id": 37,
+    "sender": "money@example.com",
+    "subject": "Make Money Online",
+    "content": "Discover how to make money online without any investment.",
+    "is_spam": true
+  },
+  {
+    "id": 38,
+    "sender": "invitations@example.com",
+    "subject": "Birthday Party Invitation",
+    "content": "You're invited to my birthday party this Saturday. Hope you can make it!",
+    "is_spam": false
+  },
+  {
+    "id": 39,
+    "sender": "freeoffer@example.com",
+    "subject": "Exclusive Free Offer",
+    "content": "Claim your free gift by clicking the link below. Limited quantities available!",
+    "is_spam": true
+  },
+  {
+    "id": 40,
+    "sender": "updates2@example.com",
+    "subject": "System Maintenance Notification",
+    "content": "Scheduled maintenance will occur tonight. Please save your work.",
+    "is_spam": false
+  },
+  {
+    "id": 41,
+    "sender": "winning@example.com",
+    "subject": "You've Been Selected!",
+    "content": "Congratulations! You've been selected to receive a special reward.",
+    "is_spam": true
+  },
+  {
+    "id": 42,
+    "sender": "newsletter2@example.com",
+    "subject": "Weekly Digest",
+    "content": "Here is your weekly digest of news and updates.",
+    "is_spam": false
+  },
+  {
+    "id": 43,
+    "sender": "cash@example.com",
+    "subject": "Urgent Cash Transfer",
+    "content": "Initiate your urgent cash transfer now and secure your funds.",
+    "is_spam": true
+  },
+  {
+    "id": 44,
+    "sender": "office@example.com",
+    "subject": "Meeting Minutes",
+    "content": "Please find attached the minutes from today's meeting.",
+    "is_spam": false
+  },
+  {
+    "id": 45,
+    "sender": "clickhere@example.com",
+    "subject": "Click Here for a Surprise",
+    "content": "You won't believe the surprise waiting for you. Click now!",
+    "is_spam": true
+  },
+  {
+    "id": 46,
+    "sender": "manager@example.com",
+    "subject": "Performance Review",
+    "content": "Your performance review is scheduled for next week. Please prepare accordingly.",
+    "is_spam": false
+  },
+  {
+    "id": 47,
+    "sender": "billionaire@example.com",
+    "subject": "Become a Billionaire Overnight",
+    "content": "Learn the secrets to becoming a billionaire overnight. Limited slots available!",
+    "is_spam": true
+  },
+  {
+    "id": 48,
+    "sender": "colleague4@example.com",
+    "subject": "Team Lunch",
+    "content": "Let's have a team lunch on Friday to celebrate our recent success.",
+    "is_spam": false
+  },
+  {
+    "id": 49,
+    "sender": "miracle@example.com",
+    "subject": "Miracle Weight Loss",
+    "content": "Lose weight fast with this miracle product. Results guaranteed!",
+    "is_spam": true
+  },
+  {
+    "id": 50,
+    "sender": "friend4@example.com",
+    "subject": "Catch Up Soon",
+    "content": "Long time no see! Let's catch up soon over coffee.",
+    "is_spam": false
+  },
+  {
+    "id": 51,
+    "sender": "promo2@example.com",
+    "subject": "Exclusive Offer Inside",
+    "content": "Unlock a special deal on our products today! Limited availability, act fast!",
+    "is_spam": true
+  },
+  {
+    "id": 52,
+    "sender": "boss2@example.com",
+    "subject": "Staff Meeting Reminder",
+    "content": "Reminder: staff meeting at 9 AM tomorrow. Please be punctual.",
+    "is_spam": false
+  },
+  {
+    "id": 53,
+    "sender": "deals2@example.com",
+    "subject": "Last Chance: Sale Ending Soon!",
+    "content": "Hurry up! Our sale ends in a few hours. Don't miss out on these unbeatable deals.",
+    "is_spam": true
+  },
+  {
+    "id": 54,
+    "sender": "friend5@example.com",
+    "subject": "Catch up this weekend?",
+    "content": "Hey, are you free this weekend for a coffee or a movie?",
+    "is_spam": false
+  },
+  {
+    "id": 55,
+    "sender": "lottery2@example.com",
+    "subject": "Your Lottery Ticket Winner!",
+    "content": "Congratulations! Your lottery ticket has been selected as a winner. Claim now!",
+    "is_spam": true
+  },
+  {
+    "id": 56,
+    "sender": "hr2@example.com",
+    "subject": "Interview Schedule Confirmation",
+    "content": "Please confirm your availability for the interview scheduled on Thursday.",
+    "is_spam": false
+  },
+  {
+    "id": 57,
+    "sender": "investment2@example.com",
+    "subject": "Opportunity to Multiply Your Wealth",
+    "content": "Invest now and watch your money grow exponentially with our expert advice.",
+    "is_spam": true
+  },
+  {
+    "id": 58,
+    "sender": "newsletter3@example.com",
+    "subject": "Weekly Highlights",
+    "content": "Read our weekly highlights for the latest news and trends in your area.",
+    "is_spam": false
+  },
+  {
+    "id": 59,
+    "sender": "offer3@example.com",
+    "subject": "Unlock Your Bonus Rewards",
+    "content": "Sign up now and unlock exclusive bonus rewards and discounts!",
+    "is_spam": true
+  },
+  {
+    "id": 60,
+    "sender": "colleague5@example.com",
+    "subject": "Meeting Rescheduled",
+    "content": "The meeting has been rescheduled to 3 PM. Please update your calendars.",
+    "is_spam": false
+  },
+  {
+    "id": 61,
+    "sender": "promo3@example.com",
+    "subject": "Special Discount Just for You",
+    "content": "Enjoy a special discount on our best-selling products. Limited time only!",
+    "is_spam": true
+  },
+  {
+    "id": 62,
+    "sender": "support3@example.com",
+    "subject": "Ticket Update",
+    "content": "Your support ticket has been escalated to our senior team for resolution.",
+    "is_spam": false
+  },
+  {
+    "id": 63,
+    "sender": "winprize@example.com",
+    "subject": "Win a Luxury Vacation",
+    "content": "Enter now for a chance to win a luxury vacation package to a tropical destination.",
+    "is_spam": true
+  },
+  {
+    "id": 64,
+    "sender": "friend6@example.com",
+    "subject": "Weekend Plans",
+    "content": "Are we still on for hiking this weekend? Let me know your plans.",
+    "is_spam": false
+  },
+  {
+    "id": 65,
+    "sender": "money2@example.com",
+    "subject": "Earn Cash Fast",
+    "content": "Learn how to earn extra cash quickly with our proven methods.",
+    "is_spam": true
+  },
+  {
+    "id": 66,
+    "sender": "teamlead2@example.com",
+    "subject": "Weekly Status Update",
+    "content": "Please send your weekly status update by end of day Friday.",
+    "is_spam": false
+  },
+  {
+    "id": 67,
+    "sender": "offer4@example.com",
+    "subject": "Limited-Time Coupon",
+    "content": "Grab your limited-time coupon for 60% off on our latest collection!",
+    "is_spam": true
+  },
+  {
+    "id": 68,
+    "sender": "events@example.com",
+    "subject": "Invitation: Networking Event",
+    "content": "You're invited to our annual networking event. RSVP to secure your spot.",
+    "is_spam": false
+  },
+  {
+    "id": 69,
+    "sender": "winbig2@example.com",
+    "subject": "Claim Your Free Gift",
+    "content": "Click here to claim your free gift before the offer expires!",
+    "is_spam": true
+  },
+  {
+    "id": 70,
+    "sender": "noreply@example.com",
+    "subject": "Account Security Notice",
+    "content": "Important: We've noticed unusual activity on your account. Verify your account now.",
+    "is_spam": false
+  },
+  {
+    "id": 71,
+    "sender": "crypto2@example.com",
+    "subject": "Invest in Digital Assets",
+    "content": "The crypto market is booming. Invest today and secure your financial future.",
+    "is_spam": true
+  },
+  {
+    "id": 72,
+    "sender": "manager2@example.com",
+    "subject": "Project Kickoff Meeting",
+    "content": "Let's kick off the new project with a meeting scheduled for Monday morning.",
+    "is_spam": false
+  },
+  {
+    "id": 73,
+    "sender": "promo4@example.com",
+    "subject": "Don't Miss Out on This Deal",
+    "content": "Exclusive deal just for our subscribers. Shop now and save big!",
+    "is_spam": true
+  },
+  {
+    "id": 74,
+    "sender": "colleague6@example.com",
+    "subject": "Team Outing",
+    "content": "We're planning a team outing next month. Please share your availability.",
+    "is_spam": false
+  },
+  {
+    "id": 75,
+    "sender": "lotto2@example.com",
+    "subject": "Immediate Lottery Winner Notification",
+    "content": "You have instantly won our lottery. Claim your cash prize immediately.",
+    "is_spam": true
+  },
+  {
+    "id": 76,
+    "sender": "hr3@example.com",
+    "subject": "Onboarding Documents",
+    "content": "Please review and complete the attached onboarding documents at your earliest convenience.",
+    "is_spam": false
+  },
+  {
+    "id": 77,
+    "sender": "offers@example.com",
+    "subject": "Hot Deals Alert",
+    "content": "Our hottest deals are live! Get up to 70% off on selected items.",
+    "is_spam": true
+  },
+  {
+    "id": 78,
+    "sender": "updates3@example.com",
+    "subject": "Service Downtime Notice",
+    "content": "We will be performing scheduled maintenance tonight. Please save your work.",
+    "is_spam": false
+  },
+  {
+    "id": 79,
+    "sender": "getrich@example.com",
+    "subject": "Secret to Quick Wealth",
+    "content": "Discover the secret to quick wealth accumulation. Limited slots available!",
+    "is_spam": true
+  },
+  {
+    "id": 80,
+    "sender": "friend7@example.com",
+    "subject": "Movie Night?",
+    "content": "Hey, are you free for a movie night this Friday?",
+    "is_spam": false
+  },
+  {
+    "id": 81,
+    "sender": "promo5@example.com",
+    "subject": "Special Promo Just for You",
+    "content": "Avail a special promo offer now! Get the best deals at unmatched prices.",
+    "is_spam": true
+  },
+  {
+    "id": 82,
+    "sender": "support4@example.com",
+    "subject": "Resolution Confirmation",
+    "content": "Your issue has been successfully resolved. Thank you for your patience.",
+    "is_spam": false
+  },
+  {
+    "id": 83,
+    "sender": "winmoney2@example.com",
+    "subject": "Double Your Cash",
+    "content": "Double your cash with this once in a lifetime opportunity. Act now!",
+    "is_spam": true
+  },
+  {
+    "id": 84,
+    "sender": "colleague7@example.com",
+    "subject": "Lunch Meeting Invitation",
+    "content": "Let's have lunch tomorrow to discuss the upcoming project.",
+    "is_spam": false
+  },
+  {
+    "id": 85,
+    "sender": "promo6@example.com",
+    "subject": "Mega Sale Event",
+    "content": "Join our mega sale event and enjoy discounts up to 90% off on all items!",
+    "is_spam": true
+  },
+  {
+    "id": 86,
+    "sender": "notifications@example.com",
+    "subject": "Important Account Alert",
+    "content": "Your account has been flagged for unusual activity. Please verify your account immediately.",
+    "is_spam": false
+  },
+  {
+    "id": 87,
+    "sender": "winprize2@example.com",
+    "subject": "You Could Be a Winner",
+    "content": "Participate now and stand a chance to win a brand new car!",
+    "is_spam": true
+  },
+  {
+    "id": 88,
+    "sender": "teamlead3@example.com",
+    "subject": "Sprint Planning Meeting",
+    "content": "Our sprint planning meeting is scheduled for tomorrow. Please be prepared.",
+    "is_spam": false
+  },
+  {
+    "id": 89,
+    "sender": "offer7@example.com",
+    "subject": "Claim Your Discount",
+    "content": "Don't miss your chance to claim an exclusive discount on our products.",
+    "is_spam": true
+  },
+  {
+    "id": 90,
+    "sender": "friend8@example.com",
+    "subject": "Birthday Celebration",
+    "content": "Let's celebrate my birthday together this weekend. Looking forward to it!",
+    "is_spam": false
+  },
+  {
+    "id": 91,
+    "sender": "promo7@example.com",
+    "subject": "Exclusive Deal - Act Now",
+    "content": "Grab this exclusive deal before it's gone! Amazing discounts await you.",
+    "is_spam": true
+  },
+  {
+    "id": 92,
+    "sender": "updates4@example.com",
+    "subject": "Maintenance Update",
+    "content": "Our system maintenance is complete. Thank you for your patience.",
+    "is_spam": false
+  },
+  {
+    "id": 93,
+    "sender": "wealth@example.com",
+    "subject": "Increase Your Income",
+    "content": "Discover proven strategies to increase your income without leaving home.",
+    "is_spam": true
+  },
+  {
+    "id": 94,
+    "sender": "hr4@example.com",
+    "subject": "Training Session",
+    "content": "Please attend the mandatory training session scheduled for next Wednesday.",
+    "is_spam": false
+  },
+  {
+    "id": 95,
+    "sender": "deals3@example.com",
+    "subject": "Special Clearance Sale",
+    "content": "Our clearance sale is live! Enjoy discounts on all remaining stock.",
+    "is_spam": true
+  },
+  {
+    "id": 96,
+    "sender": "manager3@example.com",
+    "subject": "Department Meeting",
+    "content": "Reminder: Department meeting tomorrow at 11 AM. Please attend.",
+    "is_spam": false
+  },
+  {
+    "id": 97,
+    "sender": "winoffer@example.com",
+    "subject": "Claim Your Exclusive Offer",
+    "content": "Limited time offer! Click here to claim your exclusive reward now.",
+    "is_spam": true
+  },
+  {
+    "id": 98,
+    "sender": "friend9@example.com",
+    "subject": "Weekend BBQ",
+    "content": "We're hosting a BBQ this weekend. Would love to have you join us!",
+    "is_spam": false
+  },
+  {
+    "id": 99,
+    "sender": "promos@example.com",
+    "subject": "Unbeatable Savings",
+    "content": "Don't miss out on unbeatable savings on our entire product range. Shop now!",
+    "is_spam": true
+  },
+  {
+    "id": 100,
+    "sender": "updates5@example.com",
+    "subject": "Service Notification",
+    "content": "This is a reminder that our service will be down for scheduled maintenance tonight.",
+    "is_spam": false
+  },
+  {
+    "id": 101,
+    "sender": "promo8@example.com",
+    "subject": "Last Chance: Special Discount",
+    "content": "Grab your final chance at an unbeatable discount before it expires!",
+    "is_spam": true
+  },
+  {
+    "id": 102,
+    "sender": "boss4@example.com",
+    "subject": "Team Meeting Tomorrow",
+    "content": "Reminder: please prepare for the team meeting tomorrow morning.",
+    "is_spam": false
+  },
+  {
+    "id": 103,
+    "sender": "clickbait@example.com",
+    "subject": "This One Trick Will Change Your Life!",
+    "content": "Learn the one trick that can make your life infinitely better. Click to find out!",
+    "is_spam": true
+  },
+  {
+    "id": 104,
+    "sender": "friend10@example.com",
+    "subject": "Weekend Plans",
+    "content": "Are you free to hang out this weekend? Let me know.",
+    "is_spam": false
+  },
+  {
+    "id": 105,
+    "sender": "investment3@example.com",
+    "subject": "Earn 300% Returns Now",
+    "content": "Invest in our program and earn 300% returns. Limited spots available!",
+    "is_spam": true
+  },
+  {
+    "id": 106,
+    "sender": "updates6@example.com",
+    "subject": "System Update Notice",
+    "content": "Our system will undergo maintenance tonight. Please save your work.",
+    "is_spam": false
+  },
+  {
+    "id": 107,
+    "sender": "pharmacy@example.com",
+    "subject": "Cheap Medicines at Your Doorstep",
+    "content": "Order now and get medicines at discounted prices delivered to your home.",
+    "is_spam": true
+  },
+  {
+    "id": 108,
+    "sender": "hr5@example.com",
+    "subject": "Interview Invitation",
+    "content": "We are pleased to invite you for an interview. Please find details attached.",
+    "is_spam": false
+  },
+  {
+    "id": 109,
+    "sender": "lotterywin3@example.com",
+    "subject": "Win a Brand New Car",
+    "content": "Your chance to win a brand new car is here. Enter our lottery now!",
+    "is_spam": true
+  },
+  {
+    "id": 110,
+    "sender": "colleague11@example.com",
+    "subject": "Project Update",
+    "content": "Let's discuss the latest project updates in our meeting later today.",
+    "is_spam": false
+  },
+  {
+    "id": 111,
+    "sender": "freeoffer2@example.com",
+    "subject": "Claim Your Free Gift Card",
+    "content": "Hurry up! Claim your free gift card now by clicking this link.",
+    "is_spam": true
+  },
+  {
+    "id": 112,
+    "sender": "friend11@example.com",
+    "subject": "Dinner Invitation",
+    "content": "Would you like to join us for dinner tonight?",
+    "is_spam": false
+  },
+  {
+    "id": 113,
+    "sender": "promo9@example.com",
+    "subject": "Unbelievable Offer Inside",
+    "content": "This offer is unbelievable. Don’t miss out on these massive savings!",
+    "is_spam": true
+  },
+  {
+    "id": 114,
+    "sender": "support5@example.com",
+    "subject": "Ticket Follow-Up",
+    "content": "We have updated your ticket status. Please review the details.",
+    "is_spam": false
+  },
+  {
+    "id": 115,
+    "sender": "crypto3@example.com",
+    "subject": "Crypto Investment Opportunity",
+    "content": "Join the crypto revolution. Invest in digital assets today and secure your future!",
+    "is_spam": true
+  },
+  {
+    "id": 116,
+    "sender": "teamlead4@example.com",
+    "subject": "Reminder: Code Review",
+    "content": "Please complete your code review by the end of the day.",
+    "is_spam": false
+  },
+  {
+    "id": 117,
+    "sender": "offer8@example.com",
+    "subject": "Get Rich Quick Scheme",
+    "content": "Discover our get rich quick scheme that can change your life instantly!",
+    "is_spam": true
+  },
+  {
+    "id": 118,
+    "sender": "manager4@example.com",
+    "subject": "Budget Meeting Reminder",
+    "content": "Reminder: Budget meeting scheduled for tomorrow at 10 AM.",
+    "is_spam": false
+  },
+  {
+    "id": 119,
+    "sender": "winbig3@example.com",
+    "subject": "Your Chance to Win Big!",
+    "content": "Enter now and win big prizes that will change your life forever.",
+    "is_spam": true
+  },
+  {
+    "id": 120,
+    "sender": "friend12@example.com",
+    "subject": "Catch Up Over Coffee",
+    "content": "Let's catch up over coffee sometime this week.",
+    "is_spam": false
+  },
+  {
+    "id": 121,
+    "sender": "investment4@example.com",
+    "subject": "Double Your Investment",
+    "content": "Double your money with our exclusive investment plan. Limited time offer!",
+    "is_spam": true
+  },
+  {
+    "id": 122,
+    "sender": "hr6@example.com",
+    "subject": "New Policy Announcement",
+    "content": "Please review the new company policy attached to this email.",
+    "is_spam": false
+  },
+  {
+    "id": 123,
+    "sender": "lotterywin4@example.com",
+    "subject": "Exclusive Lottery Winner",
+    "content": "Congratulations! You are our exclusive lottery winner. Claim your prize now!",
+    "is_spam": true
+  },
+  {
+    "id": 124,
+    "sender": "newsletter4@example.com",
+    "subject": "Daily Digest",
+    "content": "Here is your daily digest of news and updates.",
+    "is_spam": false
+  },
+  {
+    "id": 125,
+    "sender": "promo10@example.com",
+    "subject": "Special Invitation: Get Your Discount",
+    "content": "Join our exclusive program and enjoy a special discount on all products.",
+    "is_spam": true
+  },
+  {
+    "id": 126,
+    "sender": "colleague12@example.com",
+    "subject": "Team Outing Details",
+    "content": "Please find the details for our upcoming team outing attached.",
+    "is_spam": false
+  },
+  {
+    "id": 127,
+    "sender": "offer9@example.com",
+    "subject": "Amazing Deals Await You",
+    "content": "Don't wait! Amazing deals on top products are just one click away.",
+    "is_spam": true
+  },
+  {
+    "id": 128,
+    "sender": "boss5@example.com",
+    "subject": "Quarterly Results",
+    "content": "Please review the attached quarterly results for the latest performance update.",
+    "is_spam": false
+  },
+  {
+    "id": 129,
+    "sender": "pharma2@example.com",
+    "subject": "Miracle Health Supplement",
+    "content": "Try our miracle health supplement and feel better in days. Order now!",
+    "is_spam": true
+  },
+  {
+    "id": 130,
+    "sender": "friend13@example.com",
+    "subject": "Family Get-Together",
+    "content": "Looking forward to our family get-together this weekend.",
+    "is_spam": false
+  },
+  {
+    "id": 131,
+    "sender": "winmoney3@example.com",
+    "subject": "Immediate Cash Bonus",
+    "content": "Claim your immediate cash bonus today with this simple step. Limited offer!",
+    "is_spam": true
+  },
+  {
+    "id": 132,
+    "sender": "support6@example.com",
+    "subject": "Service Ticket Closed",
+    "content": "Your service ticket has been closed. Thank you for contacting support.",
+    "is_spam": false
+  },
+  {
+    "id": 133,
+    "sender": "crypto4@example.com",
+    "subject": "Bitcoin Price Surge",
+    "content": "Invest in Bitcoin now and ride the price surge. Don’t miss out!",
+    "is_spam": true
+  },
+  {
+    "id": 134,
+    "sender": "teamlead5@example.com",
+    "subject": "Sprint Review Meeting",
+    "content": "Reminder: Sprint review meeting tomorrow at 2 PM.",
+    "is_spam": false
+  },
+  {
+    "id": 135,
+    "sender": "promo11@example.com",
+    "subject": "Flash Sale: Everything Must Go",
+    "content": "Hurry up! Our flash sale is live with discounts on all items.",
+    "is_spam": true
+  },
+  {
+    "id": 136,
+    "sender": "manager5@example.com",
+    "subject": "Meeting Agenda",
+    "content": "Please find attached the agenda for tomorrow’s meeting.",
+    "is_spam": false
+  },
+  {
+    "id": 137,
+    "sender": "offer10@example.com",
+    "subject": "Limited Stock Offer",
+    "content": "Limited stock available! Buy now and enjoy exclusive discounts.",
+    "is_spam": true
+  },
+  {
+    "id": 138,
+    "sender": "friend14@example.com",
+    "subject": "Weekend Get-Together",
+    "content": "Are you free for a weekend get-together? Let me know.",
+    "is_spam": false
+  },
+  {
+    "id": 139,
+    "sender": "winprize3@example.com",
+    "subject": "Win a Luxury Watch",
+    "content": "Stand a chance to win a luxury watch by entering our contest now!",
+    "is_spam": true
+  },
+  {
+    "id": 140,
+    "sender": "hr7@example.com",
+    "subject": "Interview Reminder",
+    "content": "This is a reminder for your interview scheduled on Monday.",
+    "is_spam": false
+  },
+  {
+    "id": 141,
+    "sender": "investment5@example.com",
+    "subject": "High Yield Investment Opportunity",
+    "content": "Invest in our high yield program and secure your financial future.",
+    "is_spam": true
+  },
+  {
+    "id": 142,
+    "sender": "updates7@example.com",
+    "subject": "Maintenance Downtime",
+    "content": "Scheduled maintenance will begin at 11 PM tonight. Please save your work.",
+    "is_spam": false
+  },
+  {
+    "id": 143,
+    "sender": "promo12@example.com",
+    "subject": "Super Savings Just For You",
+    "content": "Enjoy super savings on all our products. Offer valid for a limited time.",
+    "is_spam": true
+  },
+  {
+    "id": 144,
+    "sender": "colleague13@example.com",
+    "subject": "Project Collaboration",
+    "content": "Let's collaborate on the new project. Your input is valued.",
+    "is_spam": false
+  },
+  {
+    "id": 145,
+    "sender": "lotterywin5@example.com",
+    "subject": "Your Winning Number Inside",
+    "content": "Discover your winning lottery number inside. Claim your prize today!",
+    "is_spam": true
+  },
+  {
+    "id": 146,
+    "sender": "friend15@example.com",
+    "subject": "Catch Up",
+    "content": "It has been a while. Let's catch up soon over a call.",
+    "is_spam": false
+  },
+  {
+    "id": 147,
+    "sender": "offer13@example.com",
+    "subject": "Exclusive Discount Offer",
+    "content": "Grab this exclusive discount offer before it expires. Act now!",
+    "is_spam": true
+  },
+  {
+    "id": 148,
+    "sender": "hr8@example.com",
+    "subject": "Policy Update",
+    "content": "Please review the latest update to our company policies attached.",
+    "is_spam": false
+  },
+  {
+    "id": 149,
+    "sender": "crypto5@example.com",
+    "subject": "Crypto Investment Alert",
+    "content": "Invest in crypto now with our expert insights. Limited slots available!",
+    "is_spam": true
+  },
+  {
+    "id": 150,
+    "sender": "manager6@example.com",
+    "subject": "Weekly Report",
+    "content": "Please submit your weekly report by EOD Friday.",
+    "is_spam": false
+  },
+  {
+    "id": 151,
+    "sender": "manager1@example.com",
+    "subject": "Project Update",
+    "content": "Please find the latest project update attached.",
+    "is_spam": true
+  },
+  {
+    "id": 152,
+    "sender": "offer7@example.com",
+    "subject": "Special Discount Offer",
+    "content": "Huge discount available, buy now and save big!",
+    "is_spam": false
+  },
+  {
+    "id": 153,
+    "sender": "hr2@example.com",
+    "subject": "Interview Schedule",
+    "content": "Your interview is scheduled for next week. Please prepare accordingly.",
+    "is_spam": true
+  },
+  {
+    "id": 154,
+    "sender": "lottery2@example.com",
+    "subject": "Lottery Win Notification",
+    "content": "You've been selected to win the lottery! Claim your prize!",
+    "is_spam": false
+  },
+  {
+    "id": 155,
+    "sender": "teamlead2@example.com",
+    "subject": "Meeting Reminder",
+    "content": "Don't forget our meeting tomorrow at 10 AM.",
+    "is_spam": true
+  },
+  {
+    "id": 156,
+    "sender": "promo2@example.com",
+    "subject": "Free Gift Inside",
+    "content": "Claim your free gift now by clicking here!",
+    "is_spam": false
+  },
+  {
+    "id": 157,
+    "sender": "colleague5@example.com",
+    "subject": "Code Review Request",
+    "content": "Please review my code before the deadline.",
+    "is_spam": true
+  },
+  {
+    "id": 158,
+    "sender": "winnow@example.com",
+    "subject": "Win Cash Prizes",
+    "content": "Participate in our contest to win cash prizes instantly!",
+    "is_spam": false
+  },
+  {
+    "id": 159,
+    "sender": "manager7@example.com",
+    "subject": "Weekly Summary",
+    "content": "Attached is the weekly summary report.",
+    "is_spam": true
+  },
+  {
+    "id": 160,
+    "sender": "deals2@example.com",
+    "subject": "Limited Time Offer",
+    "content": "Get an exclusive deal now, limited time only!",
+    "is_spam": false
+  },
+  {
+    "id": 161,
+    "sender": "boss2@example.com",
+    "subject": "Performance Feedback",
+    "content": "Your performance review is scheduled for tomorrow.",
+    "is_spam": true
+  },
+  {
+    "id": 162,
+    "sender": "promo3@example.com",
+    "subject": "Amazing Offer",
+    "content": "Don't miss this amazing offer, shop today!",
+    "is_spam": false
+  },
+  {
+    "id": 163,
+    "sender": "team2@example.com",
+    "subject": "Project Meeting",
+    "content": "Let's have a project meeting on Wednesday.",
+    "is_spam": true
+  },
+  {
+    "id": 164,
+    "sender": "winprize@example.com",
+    "subject": "Claim Your Prize",
+    "content": "Click to claim your prize immediately!",
+    "is_spam": false
+  },
+  {
+    "id": 165,
+    "sender": "it@example.com",
+    "subject": "System Maintenance",
+    "content": "Scheduled maintenance tonight at 11 PM.",
+    "is_spam": true
+  },
+  {
+    "id": 166,
+    "sender": "offer3@example.com",
+    "subject": "Earn Money Fast",
+    "content": "Start earning money quickly with this simple trick.",
+    "is_spam": false
+  },
+  {
+    "id": 167,
+    "sender": "colleague6@example.com",
+    "subject": "Meeting Agenda",
+    "content": "Attached is the agenda for our upcoming meeting.",
+    "is_spam": true
+  },
+  {
+    "id": 168,
+    "sender": "discount3@example.com",
+    "subject": "Super Sale",
+    "content": "Enjoy our super sale with up to 80% off!",
+    "is_spam": false
+  },
+  {
+    "id": 169,
+    "sender": "friend4@example.com",
+    "subject": "Lunch Plan",
+    "content": "Let's go for lunch tomorrow.",
+    "is_spam": true
+  },
+  {
+    "id": 170,
+    "sender": "promo4@example.com",
+    "subject": "Exclusive Deal",
+    "content": "Unlock exclusive deals with our membership today!",
+    "is_spam": false
+  }
+]

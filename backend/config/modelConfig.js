@@ -1,0 +1,1 @@
+//AI model config file
