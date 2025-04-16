@@ -2,7 +2,19 @@ const fs = require("fs");
 const path = require("path");
 const { spawn } = require("child_process");
 const { getSenderReputation } = require("../models/emailModel");
-const { MODEL_SAVE_PATH, TRAINING_DATA_PATH } = require("../config/env");
+const { config } = require("../config/env");
+
+// Fix the path reference issue
+const MODEL_SAVE_PATH = path.resolve(
+  __dirname,
+  "..",
+  config.MODEL_SAVE_PATH || "../models/spam_classifier.pkl"
+);
+const TRAINING_DATA_PATH = path.resolve(
+  __dirname,
+  "..",
+  config.TRAINING_DATA_PATH || "../data/training_emails.json"
+);
 
 // Create directories if they don't exist
 const modelDir = path.dirname(MODEL_SAVE_PATH);

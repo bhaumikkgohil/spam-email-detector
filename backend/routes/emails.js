@@ -1,5 +1,6 @@
 const express = require("express");
 const router = express.Router();
+const pool = require("../config/db"); // Add this line
 const { createEmail, getEmails } = require("../models/emailModel");
 const ruleBasedClassifier = require("../services/spamClassifier");
 const aiClassifier = require("../services/aiSpamClassifier");
